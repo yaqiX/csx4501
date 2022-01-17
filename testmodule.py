@@ -1,0 +1,1 @@
+r = 'Result of the hypothesis, that in the case of California, wealthy states have higher percentage of net job creation over 10000 than the percentage nationwide'
